@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Pixel Art Maker
 
-Made following YouTube Channel: Coding Garden with CJ
+Features:
+- Select color from the color picker.
+- Click on the grid cells to fill the cell with selected color.
+- Colors used in the grid will appear in the color swatch just above the grid.
+- Click on any color from the Color Swatch to use that specific color again.
+- Right-click a grid cell to remove the cell color.
+- The hex codes of the cell colors appear at the bottom of the grid.
+
+Created following YouTube Channel: Coding Garden with CJ
 
 ## Available Scripts
 
